@@ -1,0 +1,2 @@
+# SimpleCore
+simple component organization
